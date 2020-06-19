@@ -1,2 +1,2 @@
 # DiceRoller
-Dice rolling 
+Dice rolling game
