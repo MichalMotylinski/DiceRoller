@@ -1,2 +1,2 @@
 # DiceRoller
-Dice rolling game
+Dice rolling simulation
